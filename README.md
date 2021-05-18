@@ -1,4 +1,4 @@
-# Cloneof Alison Webpage [deployed](https://hasan-farooq.github.io/first-clone) at Github Pages.
+# Cloneof Alison Webpage [deployed](https://hasan-farooq.github.io/first-web-clone) at Github Pages.
 
 
 # Getting Started with Create React App
